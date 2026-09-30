@@ -3,63 +3,72 @@
     "name": "Steve Clark",
     "role": "Founder & REALTOR\u00ae",
     "company": "Backbeat Homes / Clarkliving",
-    "public_phone": "818.519.9363",
-    "profile": "https://backbeathomes.com/agents/steve-clark"
+    "profile": "https://backbeathomes.com/agents/steve-clark",
+    "phone": "8185199363",
+    "phone_source": "Provided by Ben Otto"
   },
   {
     "name": "Geva Lester",
     "role": "Co-Founder & Agent",
     "company": "Varity Homes",
-    "public_phone": "571.556.9890",
-    "profile": "https://varityhomes.com/agents/geva-lester"
+    "profile": "https://varityhomes.com/agents/geva-lester",
+    "phone": "7032834938",
+    "phone_source": "Provided by Ben Otto"
   },
   {
     "name": "Jane Morrison",
     "role": "Co-Founder & Agent",
     "company": "Varity Homes",
-    "public_phone": "571.554.6769",
-    "profile": "https://varityhomes.com/agents/jane-morrison"
+    "profile": "https://varityhomes.com/agents/jane-morrison",
+    "phone": "7034059959",
+    "phone_source": "Provided by Ben Otto"
   },
   {
     "name": "Dan Metcalf",
     "role": "Founder & REALTOR\u00ae",
     "company": "Perennial Real Estate",
-    "public_phone": "301.830.1221",
-    "profile": "https://perennialdmv.com/agents/dan-metcalf"
+    "profile": "https://perennialdmv.com/agents/dan-metcalf",
+    "phone": "3018301221",
+    "phone_source": "Provided by Ben Otto"
   },
   {
     "name": "Marci Wasserman",
     "role": "Founder & REALTOR\u00ae",
     "company": "Perennial Real Estate",
-    "public_phone": "301.807.7246",
-    "profile": "https://perennialdmv.com/agents/marci-wasserman"
+    "profile": "https://perennialdmv.com/agents/marci-wasserman",
+    "phone": null,
+    "phone_source": null
   },
   {
     "name": "Gali Sapir",
     "role": "Founder & REALTOR\u00ae",
     "company": "Perennial Real Estate",
-    "public_phone": "202.669.4683",
-    "profile": "https://perennialdmv.com/agents/gali-sapir"
+    "profile": "https://perennialdmv.com/agents/gali-sapir",
+    "phone": null,
+    "phone_source": null
   },
   {
     "name": "Will Wiard",
     "role": "Managing Broker",
     "company": "Side \u00b7 DC, MD, VA, NC & CO",
-    "public_phone": "703.829.5992",
-    "profile": "https://www.side.com/team/will-wiard/"
+    "profile": "https://www.side.com/team/will-wiard/",
+    "phone": "7039450634",
+    "phone_source": "Provided by Ben Otto"
   },
   {
     "name": "Stephanie Holtan",
     "role": "Chief Revenue Officer",
     "company": "Renowned",
-    "public_phone": null,
-    "profile": "https://renowned.com/about-us/"
+    "profile": "https://renowned.com/about-us/",
+    "phone": "8472078947",
+    "phone_source": "Provided by Ben Otto"
   },
   {
     "name": "Brandon Hobbs",
     "role": "Real Estate Agent & Team Leader",
     "company": "Arbor Real Estate",
-    "public_phone": "714.765.9880",
-    "profile": "https://arborrealestate.com/agent/brandon-hobbs"
+    "profile": "https://arborrealestate.com/agent/brandon-hobbs",
+    "phone": "7147659880",
+    "phone_source": "Provided by Ben Otto"
   }
 ]
