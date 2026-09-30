@@ -1,4 +1,4 @@
-# Ben Otto — Douglas Elliman candidacy
+# Ben Otto  ·  Douglas Elliman candidacy
 
 Standalone static application website for dehogotto.com. Open dist/index.html or serve the dist directory with any static web server. No dependencies or build step required.
 
