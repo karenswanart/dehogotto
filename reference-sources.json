@@ -32,22 +32,6 @@
     "phone_source": "Provided by Ben Otto"
   },
   {
-    "name": "Marci Wasserman",
-    "role": "Founder & REALTOR\u00ae",
-    "company": "Perennial Real Estate",
-    "profile": "https://perennialdmv.com/agents/marci-wasserman",
-    "phone": null,
-    "phone_source": null
-  },
-  {
-    "name": "Gali Sapir",
-    "role": "Founder & REALTOR\u00ae",
-    "company": "Perennial Real Estate",
-    "profile": "https://perennialdmv.com/agents/gali-sapir",
-    "phone": null,
-    "phone_source": null
-  },
-  {
     "name": "Will Wiard",
     "role": "Managing Broker",
     "company": "Side \u00b7 DC, MD, VA, NC & CO",
@@ -85,6 +69,30 @@
     "company": "Aston Rose Sports + Entertainment",
     "phone": "7862291949",
     "profile": "https://astonrosese.com/agent/tomi-rose",
+    "phone_source": "User provided"
+  },
+  {
+    "name": "Donnie Pingaro",
+    "role": "Managing Director of Brokerage Services",
+    "company": "ENRG Realty",
+    "phone": "3053892922",
+    "profile": "https://enrg.realty/enrg-spotlight-donnie-pingaro-luxury-real-estate-expertise/",
+    "phone_source": "User provided"
+  },
+  {
+    "name": "Allison Hunter",
+    "role": "Founding Partner",
+    "company": "Luxe Hunter Real Estate",
+    "phone": "4072214669",
+    "profile": "https://luxe-hunter.com/about",
+    "phone_source": "User provided"
+  },
+  {
+    "name": "Alicia Soekawa",
+    "role": "Principal Broker & Business Coach",
+    "company": "The Collaborative Team / Fiv Realty",
+    "phone": "8045969138",
+    "profile": "https://www.aliciaandcompany.com/agents/aliciasoekawa/",
     "phone_source": "User provided"
   }
 ]
